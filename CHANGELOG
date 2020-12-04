@@ -1,0 +1,41 @@
+Changelog
+Group 28
+12/1
+Most of the structure of the project is completed including classes for vehicles ,slots and parking lot, functions to calculate the price, the time and whether getting in and out. We use linked list to connect all the vehicles and slots, which enables easy search.  The time is based on the real time, 
+and all the ticket will be printed at a time.  But it seems not reasonable enough and is going to be modified.
+12/3
+The time function in our milestone1 was based on the real time, which would make the outcome and tickets printed
+very strange and unrealistic.
+This time, we write a new one to simulate the real situation in a parking lot, which means giving the real time a 
+magification.
+Now the overall effect is just like a real parking lot in a world with faster time flow tha our real world.
+************************************************************************************************************
+12/5
+Last time, the linked lists in our code had some unknown mistakes.
+It turns out that we cut the linklists ourselves in one line of the codes.
+We fix the small but fatal problem this time.
+Now the tickets printing part works well.
+************************************************************************************************************
+12/6-12/7
+Last time, the ticket looked a little bit rough and unaesthetic due to the limited time.
+This time, we polish the interface of the printed tickets and it looks better now.
+Also, we fix those small bugs which we haven't found last time.
+************************************************************************************************************
+12/8-12/10
+We started the OpenGL part.
+We design the class and basic shapes.
+We design the interface of the class and implement them.
+************************************************************************************************************
+12/10-12/12
+We draw the parking lot and all the groups we need in pur project.
+All the basic functions and effects are implemented.
+(Including the move of the vehicles and their basic animation)
+************************************************************************************************************
+12/12-12/14
+We add the track of each moving vehicles;
+We add a flag on each of the cars;
+We design and implement the transporting gate;
+We implement a car which can be controlled by using the keyboard;
+We do some debuging.
+************************************************************************************************************
+Thanks for your time reading this changelog and evaluating the code of our group!
